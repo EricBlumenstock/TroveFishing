@@ -42,7 +42,7 @@ public:
 };
 
 /* 
-Old-style depreciated
+Old-style deprecated
 keybd_event(VkKeyScan('F'), 0, 0, 0);
 keybd_event(VkKeyScan('F'), 0, KEYEVENTF_KEYUP, 0);
 */
